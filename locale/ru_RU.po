@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aphorismus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-20 22:27+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ivan Ovsyannikov <ovsyannikov.ivan@gmail.com>\n"
+"Language-Team: Ivan Ovsyannikov <ovsyannikov.ivan@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: aphorismus.php:134 aphorismus.php:135 aphorismus.php:144 aphorismus.php:145
+#: aphorismus.php:146 aphorismus.php:147 aphorismus.php:180 aphorismus.php:279
+#: aphorismus.php:285 aphorismus.php:415
+msgid "Aphorismus"
+msgstr "Афоризмус"
+
+#: aphorismus.php:134
+msgid "Use the output of aphorisms in the sidebar"
+msgstr "Используйте для вывода афоризмов в боковой панели"
+
+#: aphorismus.php:145
+msgid "Add aphorism"
+msgstr "Добавить афоризм"
+
+#: aphorismus.php:146 aphorismus.php:502
+msgid "Settings"
+msgstr "Параметры"
+
+#: aphorismus.php:147 aphorismus.php:636
+msgid "Help"
+msgstr "Справка"
+
+#: aphorismus.php:199
+msgid "Widget title"
+msgstr "Заголовок"
+
+#: aphorismus.php:203
+msgid "Space from edge of the sidebar"
+msgstr "Отступ от края боковой панели"
+
+#: aphorismus.php:204
+msgid "pixels"
+msgstr "пикселей"
+
+#: aphorismus.php:207 aphorismus.php:506
+msgid "Template string"
+msgstr "Шаблон вывода"
+
+#: aphorismus.php:209 aphorismus.php:511
+#, php-format
+msgid ""
+"You can use HTML&ndash;tags. Constants:<br /><code>%%title%%</code> &mdash; "
+"Deduces plug-in heading<br /><code>%%text%%</code> &mdash; Deduces the "
+"aphorism text<br /><code>%%author%%</code> &mdash; Deduces the author"
+msgstr ""
+"Вы можете использовать HTML&ndash;теги. Константы:<br /><code>%%title%%</"
+"code> &mdash; выводит заголовок плагина<br /><code>%%text%%</code> &mdash; "
+"выводит текст афоризма<br /><code>%%author%%</code> &mdash; выводит автора"
+
+#: aphorismus.php:323
+msgid "Aphorism added"
+msgstr "Афоризм добавлен"
+
+#: aphorismus.php:334
+msgid "Aphorism deleted"
+msgstr "Афоризм удалён"
+
+#: aphorismus.php:335
+msgid "Aphorisms deleted"
+msgstr "Афоризмы удалёны"
+
+#: aphorismus.php:341
+msgid "All aphorisms deleted"
+msgstr "Все афоризмы удалены"
+
+#: aphorismus.php:356
+msgid "Settings saved"
+msgstr "Параметры сохранены"
+
+#: aphorismus.php:363
+msgid "Aphorism saved"
+msgstr "Афоризм сохранён"
+
+#: aphorismus.php:383 aphorismus.php:399
+#, php-format
+msgid "Imported aphorisms: %d"
+msgstr "Импортировано афоризмов: %d"
+
+#: aphorismus.php:416
+msgid "Search result"
+msgstr "Результат поиска"
+
+#: aphorismus.php:421 aphorismus.php:423
+msgid "Search"
+msgstr "Найти"
+
+#: aphorismus.php:428
+msgid "&laquo;"
+msgstr ""
+
+#: aphorismus.php:428
+msgid "&raquo;"
+msgstr ""
+
+#: aphorismus.php:430
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Показано %s&#8211;%s из %s"
+
+#: aphorismus.php:437 aphorismus.php:481
+msgid "Actions"
+msgstr "Действия"
+
+#: aphorismus.php:438 aphorismus.php:482
+msgid "Delete"
+msgstr "Удалить"
+
+#: aphorismus.php:439 aphorismus.php:483
+msgid "Delete all"
+msgstr "Удалить все"
+
+#: aphorismus.php:441 aphorismus.php:485
+msgid "Apply"
+msgstr "Применить"
+
+#: aphorismus.php:441 aphorismus.php:485
+msgid ""
+"You are about to delete ALL aphorisms\\n\\'Cancel\\' to stop, \\'OK\\' to "
+"delete."
+msgstr ""
+"Вы собираетесь удалить ВСЕ афоризмы\\n\\'Отмена\\' - оставить, \\'OK\\' - "
+"удалить."
+
+#: aphorismus.php:441 aphorismus.php:485
+msgid "Export"
+msgstr "Экспорт"
+
+#: aphorismus.php:449 aphorismus.php:456 aphorismus.php:613
+msgid "Aphorism text"
+msgstr "Текст афоризма"
+
+#: aphorismus.php:450 aphorismus.php:457 aphorismus.php:615
+msgid "Author"
+msgstr "Автор"
+
+#: aphorismus.php:490 aphorismus.php:648
+msgid "The link allowing other Aphorismus to import your aphorisms"
+msgstr "Ссылка, позволяющая импортировать Ваши афоризмы на других сайтах"
+
+#: aphorismus.php:514
+msgid "The updating period"
+msgstr "Период обновления"
+
+#: aphorismus.php:518
+msgid "at each loading"
+msgstr "при обновлении страницы"
+
+#: aphorismus.php:521
+msgid "time at an o'clock"
+msgstr "каждый час"
+
+#: aphorismus.php:524
+msgid "time a day"
+msgstr "раз в день"
+
+#: aphorismus.php:528
+msgid "Count of aphorisms on page"
+msgstr "Количество афоризмов на странице"
+
+#: aphorismus.php:529
+msgid "in the admin panel"
+msgstr "в панели администрирования"
+
+#: aphorismus.php:532
+msgid "Show aphorisms in your admin screen"
+msgstr "Отображать афоризмы в панели администрирования"
+
+#: aphorismus.php:535
+msgid "The plugin \"Hello Dolly\" should be switched off"
+msgstr "Плагин \"Hello Dolly\" должен быть выключен"
+
+#: aphorismus.php:538
+msgid "...Max length"
+msgstr "...максимальной длины"
+
+#: aphorismus.php:539
+msgid "symbols"
+msgstr "символов"
+
+#: aphorismus.php:543 aphorismus.php:620
+msgid "Save"
+msgstr "Сохранить"
+
+#: aphorismus.php:576
+msgid "Editing aphorism"
+msgstr "Редактирование афоризма"
+
+#: aphorismus.php:577
+msgid "Adding aphorism"
+msgstr "Добавление афоризма"
+
+#: aphorismus.php:583
+msgid "Form"
+msgstr "Форма"
+
+#: aphorismus.php:586
+msgid "Import from file"
+msgstr "Импортировать из файла"
+
+#: aphorismus.php:589
+msgid "Import from other site"
+msgstr "Импортировать с другого сайта"
+
+#: aphorismus.php:597
+msgid "XML&ndash;file"
+msgstr "XML&ndash;файл"
+
+#: aphorismus.php:597 aphorismus.php:604
+msgid "Import"
+msgstr "Импорт"
+
+#: aphorismus.php:604
+msgid "Link to XML"
+msgstr "Ссылка на XML"
+
+#: aphorismus.php:614
+msgid "You can use following tags:"
+msgstr "Вы можете использовать следующие тэги:"
+
+#: aphorismus.php:621
+msgid "Add"
+msgstr "Добавить"
+
+#: aphorismus.php:637
+msgid "Addition of aphorisms"
+msgstr "Добавление афоризма"
+
+#: aphorismus.php:638
+#, php-format
+msgid ""
+"<p>You can use %s for XML-file creation. Open &laquo;aphorismus.xls&raquo; "
+"in MS Excel 2003 SP3 (or higher), fill the table, press &laquo;Save "
+"as&raquo; and will choose XML-data (not a table XML).</p>"
+msgstr ""
+"<p>Вы можете использовать %s для создания XML-файла. Откройте &laquo;"
+"aphorismus.xls&raquo; в MS Excel 2003 SP3 (или лучше), заполните таблицу, "
+"нажмите &laquo;Сохранить как&raquo; и выбере XML-данные (не Таблица XML).</p>"
+
+#: aphorismus.php:639
+msgid "<p>Attention! Try to avoid a symbol &laquo;&&raquo;! :)</p>"
+msgstr "<p>Внимание! Постарайтесь избегать символа &laquo;&&raquo;! :)</p>"
+
+#: aphorismus.php:640
+msgid "Installation"
+msgstr "Установка"
+
+#: aphorismus.php:641
+msgid ""
+"<p>The Aphorismus shows aphorisms on pages, in posts or on the sidebar. You "
+"can use</p>"
+msgstr ""
+"<p>Афоризмус показывает афоризмы на страницах, в постах или в боковой "
+"панели. Вы можете использовать</p>"
+
+#: aphorismus.php:643
+msgid "<p>for display in posts or on pages, or to use</p>"
+msgstr "<p>для отображения в постах и на страницах, или использовать</p>"
+
+#: aphorismus.php:645
+msgid ""
+"<p>in templates.</p><p>At plugin activation, he automatically adds new "
+"widget. If in a template of your blog there is a sidebar, you can place on "
+"it widget. To make it it is possible in the management widget menu.</p>"
+msgstr ""
+"<p>в шаблонах.</p><p>При активации плагина, он автоматически добавляет новый "
+"виджет. Если в шаблоне вашего блога имеется боковая панель, вы можете "
+"разместить на ней виджет. Сделать это можно в меню управления виджетами.</p>"
+
+#: aphorismus.php:646
+msgid "<p>You can deduce aphorisms on other sites:</p>"
+msgstr "<p>Вы можете выводить афоризмы на других сайтах:</p>"
+
+#: aphorismus.php:650
+msgid "Arguments"
+msgstr "Аргументы"
+
+#: aphorismus.php:652
+msgid "<p><b>aphorismus()</b> echo string.</p>"
+msgstr "<p><b>aphorismus()</b> вывоит строку.</p>"
+
+#: aphorismus.php:654
+msgid "<p><b>get_aphorismus()</b> return string.</p>"
+msgstr "<p><b>get_aphorismus()</b> возвращает строку.</p>"
+
+#: aphorismus.php:655
+msgid ""
+"<p><i>arg</i> values:</p><ul class=\"list\"><li><i>widget</i> &mdash; string "
+"with a widget template</li><li><i>notemplate</i> &mdash; string without a "
+"template (and Author)</li><li><i>array</i> &mdash; return array [id], "
+"[text], [author] (not work with <i>aphorismus()</i>!)</li></ul>"
+msgstr ""
+"<p>Значения <i>arg</i>:</p><ul class=\"list\"><li><i>widget</i> &mdash; "
+"строка с использованием шаблона виджета</li><li><i>notemplate</i> &mdash; "
+"строка без шаблона (и без Автора)</li><li><i>array</i> &mdash; возвращает "
+"массив [id], [text], [author] (не работат с <i>aphorismus()</i>!)</li></ul>"
+
+#: aphorismus.php:656
+msgid ""
+"<p>If the <i>arg</i> is empty or not set, function will deduce string with a "
+"output template.</p>"
+msgstr ""
+"<p>Если <i>arg</i> не указан, функция вернет/выведет строку, используя "
+"шаблон вывода.</p>"
+
+#: aphorismus.php:657
+msgid ""
+"<p><i>max_length</i> defines the maximum length of a deduced aphorism. By "
+"default is <i>0</i>, thus the maximum length is not limited.</p>"
+msgstr ""
+"<i>max_length</i> определяет максимальную длину выводимого афоризма. По "
+"умолчанию <i>0</i>, при этом максимальная длина не ограничена."
+
+#: aphorismus.php:658
+msgid ""
+"<p><i>tags</i> resolve or forbid a conclusion of the text of an aphorism "
+"with tags. Default value is <i>true</i>. Value <i>false</i> forbids.</p>"
+msgstr ""
+"<p><i>tags</i> разрешает или запрещает вывод тэгов в тексте афоризма. По "
+"умолчанию <i>true</i>. Значение <i>false</i> запрещает вывод тэгов.</p>"
+
+#~ msgid ""
+#~ "<p><tt>string <b>aphorismus</b> ( [ $arg ] )</tt><br /><br />$arg can "
+#~ "have values <i>true</i> or <i>false</i>. Defaul value is <i>false</i>."
+#~ "<br />If valeu is <i>true</i> function return string, else function echo "
+#~ "string.</p>"
+#~ msgstr ""
+#~ "<p><tt>string <b>aphorismus</b> ( [ $arg ] )</tt><br /><br />$arg может "
+#~ "иметь значения <i>true</i> или <i>false</i>. По умолчанию <i>false</i>."
+#~ "<br />Если функции передано значение <i>true</i>, она вернет строку. Если "
+#~ "передано <i>false</i>, функция выведет строку.</p>"
+
+#~ msgid "Template saved"
+#~ msgstr "Шаблон сохранени"

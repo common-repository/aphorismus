@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aphorismus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-20 22:27+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ivan Ovsyannikov <ovsyannikov.ivan@gmail.com>\n"
+"Language-Team: Ivan Ovsyannikov <ovsyannikov.ivan@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: aphorismus.php:134
+#: aphorismus.php:135
+#: aphorismus.php:144
+#: aphorismus.php:145
+#: aphorismus.php:146
+#: aphorismus.php:147
+#: aphorismus.php:180
+#: aphorismus.php:279
+#: aphorismus.php:285
+#: aphorismus.php:415
+msgid "Aphorismus"
+msgstr ""
+
+#: aphorismus.php:134
+msgid "Use the output of aphorisms in the sidebar"
+msgstr ""
+
+#: aphorismus.php:145
+msgid "Add aphorism"
+msgstr ""
+
+#: aphorismus.php:146
+#: aphorismus.php:502
+msgid "Settings"
+msgstr ""
+
+#: aphorismus.php:147
+#: aphorismus.php:636
+msgid "Help"
+msgstr ""
+
+#: aphorismus.php:199
+msgid "Widget title"
+msgstr ""
+
+#: aphorismus.php:203
+msgid "Space from edge of the sidebar"
+msgstr ""
+
+#: aphorismus.php:204
+msgid "pixels"
+msgstr ""
+
+#: aphorismus.php:207
+#: aphorismus.php:506
+msgid "Template string"
+msgstr ""
+
+#: aphorismus.php:209
+#: aphorismus.php:511
+#, php-format
+msgid "You can use HTML&ndash;tags. Constants:<br /><code>%%title%%</code> &mdash; Deduces plug-in heading<br /><code>%%text%%</code> &mdash; Deduces the aphorism text<br /><code>%%author%%</code> &mdash; Deduces the author"
+msgstr ""
+
+#: aphorismus.php:323
+msgid "Aphorism added"
+msgstr ""
+
+#: aphorismus.php:334
+msgid "Aphorism deleted"
+msgstr ""
+
+#: aphorismus.php:335
+msgid "Aphorisms deleted"
+msgstr ""
+
+#: aphorismus.php:341
+msgid "All aphorisms deleted"
+msgstr ""
+
+#: aphorismus.php:356
+msgid "Settings saved"
+msgstr ""
+
+#: aphorismus.php:363
+msgid "Aphorism saved"
+msgstr ""
+
+#: aphorismus.php:383
+#: aphorismus.php:399
+#, php-format
+msgid "Imported aphorisms: %d"
+msgstr ""
+
+#: aphorismus.php:416
+msgid "Search result"
+msgstr ""
+
+#: aphorismus.php:421
+#: aphorismus.php:423
+msgid "Search"
+msgstr ""
+
+#: aphorismus.php:428
+msgid "&laquo;"
+msgstr ""
+
+#: aphorismus.php:428
+msgid "&raquo;"
+msgstr ""
+
+#: aphorismus.php:430
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr ""
+
+#: aphorismus.php:437
+#: aphorismus.php:481
+msgid "Actions"
+msgstr ""
+
+#: aphorismus.php:438
+#: aphorismus.php:482
+msgid "Delete"
+msgstr ""
+
+#: aphorismus.php:439
+#: aphorismus.php:483
+msgid "Delete all"
+msgstr ""
+
+#: aphorismus.php:441
+#: aphorismus.php:485
+msgid "Apply"
+msgstr ""
+
+#: aphorismus.php:441
+#: aphorismus.php:485
+msgid ""
+"You are about to delete ALL aphorisms\\n"
+"\\'Cancel\\' to stop, \\'OK\\' to delete."
+msgstr ""
+
+#: aphorismus.php:441
+#: aphorismus.php:485
+msgid "Export"
+msgstr ""
+
+#: aphorismus.php:449
+#: aphorismus.php:456
+#: aphorismus.php:613
+msgid "Aphorism text"
+msgstr ""
+
+#: aphorismus.php:450
+#: aphorismus.php:457
+#: aphorismus.php:615
+msgid "Author"
+msgstr ""
+
+#: aphorismus.php:490
+#: aphorismus.php:648
+msgid "The link allowing other Aphorismus to import your aphorisms"
+msgstr ""
+
+#: aphorismus.php:514
+msgid "The updating period"
+msgstr ""
+
+#: aphorismus.php:518
+msgid "at each loading"
+msgstr ""
+
+#: aphorismus.php:521
+msgid "time at an o'clock"
+msgstr ""
+
+#: aphorismus.php:524
+msgid "time a day"
+msgstr ""
+
+#: aphorismus.php:528
+msgid "Count of aphorisms on page"
+msgstr ""
+
+#: aphorismus.php:529
+msgid "in the admin panel"
+msgstr ""
+
+#: aphorismus.php:532
+msgid "Show aphorisms in your admin screen"
+msgstr ""
+
+#: aphorismus.php:535
+msgid "The plugin \"Hello Dolly\" should be switched off"
+msgstr ""
+
+#: aphorismus.php:538
+msgid "...Max length"
+msgstr ""
+
+#: aphorismus.php:539
+msgid "symbols"
+msgstr ""
+
+#: aphorismus.php:543
+#: aphorismus.php:620
+msgid "Save"
+msgstr ""
+
+#: aphorismus.php:576
+msgid "Editing aphorism"
+msgstr ""
+
+#: aphorismus.php:577
+msgid "Adding aphorism"
+msgstr ""
+
+#: aphorismus.php:583
+msgid "Form"
+msgstr ""
+
+#: aphorismus.php:586
+msgid "Import from file"
+msgstr ""
+
+#: aphorismus.php:589
+msgid "Import from other site"
+msgstr ""
+
+#: aphorismus.php:597
+msgid "XML&ndash;file"
+msgstr ""
+
+#: aphorismus.php:597
+#: aphorismus.php:604
+msgid "Import"
+msgstr ""
+
+#: aphorismus.php:604
+msgid "Link to XML"
+msgstr ""
+
+#: aphorismus.php:614
+msgid "You can use following tags:"
+msgstr ""
+
+#: aphorismus.php:621
+msgid "Add"
+msgstr ""
+
+#: aphorismus.php:637
+msgid "Addition of aphorisms"
+msgstr ""
+
+#: aphorismus.php:638
+#, php-format
+msgid "<p>You can use %s for XML-file creation. Open &laquo;aphorismus.xls&raquo; in MS Excel 2003 SP3 (or higher), fill the table, press &laquo;Save as&raquo; and will choose XML-data (not a table XML).</p>"
+msgstr ""
+
+#: aphorismus.php:639
+msgid "<p>Attention! Try to avoid a symbol &laquo;&&raquo;! :)</p>"
+msgstr ""
+
+#: aphorismus.php:640
+msgid "Installation"
+msgstr ""
+
+#: aphorismus.php:641
+msgid "<p>The Aphorismus shows aphorisms on pages, in posts or on the sidebar. You can use</p>"
+msgstr ""
+
+#: aphorismus.php:643
+msgid "<p>for display in posts or on pages, or to use</p>"
+msgstr ""
+
+#: aphorismus.php:645
+msgid "<p>in templates.</p><p>At plugin activation, he automatically adds new widget. If in a template of your blog there is a sidebar, you can place on it widget. To make it it is possible in the management widget menu.</p>"
+msgstr ""
+
+#: aphorismus.php:646
+msgid "<p>You can deduce aphorisms on other sites:</p>"
+msgstr ""
+
+#: aphorismus.php:650
+msgid "Arguments"
+msgstr ""
+
+#: aphorismus.php:652
+msgid "<p><b>aphorismus()</b> echo string.</p>"
+msgstr ""
+
+#: aphorismus.php:654
+msgid "<p><b>get_aphorismus()</b> return string.</p>"
+msgstr ""
+
+#: aphorismus.php:655
+msgid "<p><i>arg</i> values:</p><ul class=\"list\"><li><i>widget</i> &mdash; string with a widget template</li><li><i>notemplate</i> &mdash; string without a template (and Author)</li><li><i>array</i> &mdash; return array [id], [text], [author] (not work with <i>aphorismus()</i>!)</li></ul>"
+msgstr ""
+
+#: aphorismus.php:656
+msgid "<p>If the <i>arg</i> is empty or not set, function will deduce string with a output template.</p>"
+msgstr ""
+
+#: aphorismus.php:657
+msgid "<p><i>max_length</i> defines the maximum length of a deduced aphorism. By default is <i>0</i>, thus the maximum length is not limited.</p>"
+msgstr ""
+
+#: aphorismus.php:658
+msgid "<p><i>tags</i> resolve or forbid a conclusion of the text of an aphorism with tags. Default value is <i>true</i>. Value <i>false</i> forbids.</p>"
+msgstr ""
+
